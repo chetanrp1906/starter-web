@@ -12,3 +12,5 @@ Adding purpose
 Adding Deployment
 
 ## How to contribute
+
+## Copyright
