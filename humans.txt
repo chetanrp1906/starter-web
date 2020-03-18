@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ChetanPatil -- chetanepepe@gmail.com -- <twitter>
 
 # THANKS
 
